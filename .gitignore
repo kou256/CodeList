@@ -38,3 +38,5 @@
 *.class
 kt/out/
 .DS_Store
+ac-library/**
+!**/tests/*.out
